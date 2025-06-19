@@ -240,10 +240,9 @@ main {
 	height: 678px;
 }
 
-/* ✅ Fix to make image fill screen */
+
 .main_image {
 	width: 100vw;
-	height: 100vh;
 	object-fit: cover;
 	display: block;
 }
